@@ -1,5 +1,5 @@
 **/.claude
-/docs/superpowers/**
+/dev/**
 **/__pycache__
 *.pyc
 .cerebro/project.md
